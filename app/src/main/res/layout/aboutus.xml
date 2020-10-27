@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText android:layout_height="80dp" android:layout_width="match_parent"/>
+
+    <ImageView android:layout_height="150dp" android:layout_width="match_parent" android:src="@drawable/donar"/>
+
+    <TextView android:layout_height="50dp" android:layout_width="match_parent"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:textColor="#ffffff" android:textStyle="bold" android:textSize="30dp" android:text="ABOUT US" android:background="#070707"/>
+
+    <EditText android:layout_height="30dp" android:layout_width="match_parent"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:textColor="#DA033F" android:textSize="20dp" android:text="Aim of this APP is to create awareness among the masses about the importance of organ donation. With the slogan of LET'S DONATE A LIFE we want to help receiptants find donars in a few steps.A small step towards a big change. We are based in INDIA, but open to all. Anyone looking for organ in India or wishing to donate organs can feel free to use our APP. The mission of DONORSHUB is to share a life by saving a life."/>
+
+</LinearLayout>

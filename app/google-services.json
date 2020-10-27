@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923141500472",
+    "firebase_url": "https://donorhub1.firebaseio.com",
+    "project_id": "donorhub1",
+    "storage_bucket": "donorhub1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923141500472:android:450512c254cf0b2c3c80cd",
+        "android_client_info": {
+          "package_name": "com.example.donorhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923141500472-027t379upaih18lu5mt1kv8sb20bklpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDAIO3oUF8Qw9Hdt_XLz-B3GGgXju6lYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923141500472-027t379upaih18lu5mt1kv8sb20bklpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

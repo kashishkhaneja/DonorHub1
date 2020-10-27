@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="profile" app:showAsAction="never" android:id="@+id/profile"/>
+
+    <item android:title="donor form" app:showAsAction="never" android:id="@+id/donor_form"/>
+
+    <item android:title="facts" app:showAsAction="never" android:id="@+id/facts"/>
+
+    <item android:title="receipt" app:showAsAction="never" android:id="@+id/receipt"/>
+
+    <item android:title="feedback" app:showAsAction="never" android:id="@+id/feedback"/>
+
+    <item android:title="about us" app:showAsAction="never" android:id="@+id/about_us"/>
+
+    <item android:title="contact" app:showAsAction="never" android:id="@+id/contact"/>
+
+</menu>
